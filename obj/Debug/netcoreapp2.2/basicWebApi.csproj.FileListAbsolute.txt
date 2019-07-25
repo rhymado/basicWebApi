@@ -1,0 +1,14 @@
+E:\BootCamp\dotnet\course\basicWebApi\bin\Debug\netcoreapp2.2\basicWebApi.deps.json
+E:\BootCamp\dotnet\course\basicWebApi\bin\Debug\netcoreapp2.2\basicWebApi.runtimeconfig.json
+E:\BootCamp\dotnet\course\basicWebApi\bin\Debug\netcoreapp2.2\basicWebApi.runtimeconfig.dev.json
+E:\BootCamp\dotnet\course\basicWebApi\bin\Debug\netcoreapp2.2\basicWebApi.dll
+E:\BootCamp\dotnet\course\basicWebApi\bin\Debug\netcoreapp2.2\basicWebApi.pdb
+E:\BootCamp\dotnet\course\basicWebApi\obj\Debug\netcoreapp2.2\basicWebApi.csprojAssemblyReference.cache
+E:\BootCamp\dotnet\course\basicWebApi\obj\Debug\netcoreapp2.2\basicWebApi.csproj.CoreCompileInputs.cache
+E:\BootCamp\dotnet\course\basicWebApi\obj\Debug\netcoreapp2.2\basicWebApi.RazorAssemblyInfo.cache
+E:\BootCamp\dotnet\course\basicWebApi\obj\Debug\netcoreapp2.2\basicWebApi.RazorAssemblyInfo.cs
+E:\BootCamp\dotnet\course\basicWebApi\obj\Debug\netcoreapp2.2\basicWebApi.AssemblyInfoInputs.cache
+E:\BootCamp\dotnet\course\basicWebApi\obj\Debug\netcoreapp2.2\basicWebApi.AssemblyInfo.cs
+E:\BootCamp\dotnet\course\basicWebApi\obj\Debug\netcoreapp2.2\basicWebApi.RazorTargetAssemblyInfo.cache
+E:\BootCamp\dotnet\course\basicWebApi\obj\Debug\netcoreapp2.2\basicWebApi.dll
+E:\BootCamp\dotnet\course\basicWebApi\obj\Debug\netcoreapp2.2\basicWebApi.pdb
